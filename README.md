@@ -1,5 +1,5 @@
 # waterfall-sinanews
-预览地址
+![预览地址](https://sherltiangang.github.io/waterfall-sinanews/index.html)
 
 ## 懒加载原理
 懒加载实际就是将页面上所有的图片都换成一个相同的路径，当用户滚动看到图片时，再将路径换成图片的原路径。
